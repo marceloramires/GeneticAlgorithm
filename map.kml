@@ -1,0 +1,250 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Rio de Janeiro visitation points</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>RjPlacesLayer</name>
+			<Placemark>
+				<name>Cristo Redentor's base</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-43.2177901,-22.9466961,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SugarLoaf Cable Car entrance</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-43.167032,-22.95539,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lagoa rodrigo de freitas' parking</name>
+				<description><![CDATA[The parking lot closest to the paddle boat and bike rental spots.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-43.2011819,-22.974258000000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parque Laje</name>
+				<description><![CDATA[Entrance to Parque Laje]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-43.2131231,-22.961238400000003,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Botanic Garden entrance</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-43.2200244,-22.9663481,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lapa Aqueduct Arches</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-43.1799603,-22.91314,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Dona Marta's observation point</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-43.197282,-22.9457624,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Vidigal moto-taxi</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-43.2348222,-22.9944913,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Two Brother's trail start</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-43.2459426,-22.9966937,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Leblon Beach</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-43.2227147,-22.9871875,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Ipanema Beach</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-43.2068467,-22.9864665,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Arpoador beach</name>
+				<description><![CDATA[In this point, you could leave your public bike, or lock your rented one, and walk up to the arpoador's stone to watch the sunset.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-43.1925237,-22.9885307,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Copacabana Beach</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-43.1794453,-22.9687066,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Sambodromo</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-43.196649,-22.9119442,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Maracanã</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-43.2275963,-22.913406800000004,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>São Conrado beach</name>
+				<description><![CDATA[In here you could park your car, and access some of the hang-gliding or paragliding tours available at walking distance.]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-43.2727164,-23.0007675,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Helipoint Helisight</name>
+				<description><![CDATA[Parking lot near to a helipoint called Helisight, where you could take helicopter sightseeing tours of varying routes, durations and prices]]></description>
+				<styleUrl>#icon-503-DB4436</styleUrl>
+				<ExtendedData>
+				</ExtendedData>
+				<Point>
+					<coordinates>-43.2170445,-22.9710823,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
